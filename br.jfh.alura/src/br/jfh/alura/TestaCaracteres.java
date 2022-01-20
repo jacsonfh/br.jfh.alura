@@ -15,7 +15,7 @@ public class TestaCaracteres {
         palavra = palavra + 2020;
         
         System.out.println(palavra);
-        
+        System.out.println(letra2);
         
     }
 }
